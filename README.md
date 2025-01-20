@@ -1,40 +1,42 @@
-Hi there, I'm Julia! 👋
+**Hi there, I'm Julia!** 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and bringing ideas to life through programming. Here's a little about me:
 
 ________________________________________________________________________________________________
 
-🚀 About Me
+🚀 **About Me**
 
- • 🎓 Computer Science Student: Currently in the 3rd semester of my Bachelor's at CESAR School.
+ **• 🎓 Computer Science Student:** Currently in the 3rd semester of my Bachelor's at CESAR School.
 
- • 💻 Web Development Enthusiast: Skilled in HTML5, CSS3, JavaScript, and frameworks like Django.
+ **• 💻 Web Development Enthusiast:** Skilled in HTML5, CSS3, JavaScript, and frameworks like Django.
 
- • 🎮 Amateur Game Developer: Currently learning the essentials of game developement in Unity Editor
+ **• 🎮 Amateur Game Developer:** Currently learning the essentials of game developement in Unity Editor
 
- • 🌟 Agile Practices: Proficient in Kanban, Lean, and DSDM methodologies.
+ **• 🌟 Agile Practices:** Proficient in Kanban, Lean, and DSDM methodologies.
 
- • 🌞 From Recife: A vibrant city that's always inspiring me to create.
-
- _______________________________________________________________________________________________
-
-🔧 Technologies & Tools
-
- • Languages: C, HTML5, CSS3, JavaScript
-
- • Frameworks: Django
-
- • Tools: Jira, PostgreSQL
-
- • Agile Methodologies: Kanban, Lean, DSDM
+ **• 🌞 From Recife:** A vibrant city that's always inspiring me to create.
+ 
+  **• 🌎 Native English Speaker:** Fluent in American English.
 
  _______________________________________________________________________________________________
 
-📚 Current Projects
+🔧 **Technologies & Tools**
 
-🌱 Cultiva Fácil
+ **• Languages:** Python, C, HTML5, CSS3, JavaScript
 
- • Technologies:
+ **• Frameworks:** Django
+
+ **• Tools:** Jira, PostgreSQL
+
+ **• Agile Methodologies:** Kanban, Lean, DSDM
+
+ _______________________________________________________________________________________________
+
+📚 **Current Projects**
+
+🌱 **Cultiva Fácil**
+
+ **• Technologies:**
 
    • Django Framework
 
@@ -42,11 +44,11 @@ ________________________________________________________________________________
 
    • PostgreSQL
 
-[Project Link](https://github.com/MatheusMV05/Projetos-2---G1)
+ • [Project Link](https://github.com/MatheusMV05/Projetos-2---G1)
 
-📖 Which Teacher
+📖 **Which Teacher**
 
- • Technologies:
+ **• Technologies:**
 
    • Django Framework
 
@@ -54,11 +56,11 @@ ________________________________________________________________________________
 
    • PostgreSQL
 
-[Project Link](https://github.com/vinimarques7/projeto-FDS)
+ • [Project Link](https://github.com/vinimarques7/projeto-FDS)
 
 ________________________________________________________________________________________________
 
-📫 Let's Connect
+**📫 Let's Connect**
 
  • ✉️ Email: juliatbarros05@gmail.com
 
@@ -66,7 +68,7 @@ ________________________________________________________________________________
 
  _______________________________________________________________________________________________
 
-🌟 Fun Facts
+**🌟 Fun Facts**
 
  • I'm a desk warrior 💻, balancing long work hours with creative side projects.
 
