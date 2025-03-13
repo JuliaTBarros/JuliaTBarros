@@ -13,8 +13,6 @@ ________________________________________________________________________________
  **• 🎮 Amateur Game Developer:** Currently learning the essentials of game developement in Unity Editor
 
  **• 🌟 Agile Practices:** Proficient in Kanban, Lean, and DSDM methodologies.
-
- **• 🌞 From Recife:** A vibrant city that's always inspiring me to create.
  
   **• 🌎 Native English Speaker:** Fluent in American English.
 
