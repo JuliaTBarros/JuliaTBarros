@@ -37,13 +37,13 @@ ________________________________________________________________________________
 
  **• Technologies:**
 
-   **• Backend:** Java + Spring Boot
+   • Backend: Java + Spring Boot
    
-   **• Frontend:** React + TypeScript
+   • Frontend: React + TypeScript
    
-   **• Database:** PostgreSQL
+   • Database: PostgreSQL
    
-   **• Build Tools:** Maven (backend) & Vite (frontend)
+   • Build Tools: Maven (backend) & Vite (frontend)
 
  • [Project Link](https://github.com/MatheusMV05/Projetos-2---G1)
 
