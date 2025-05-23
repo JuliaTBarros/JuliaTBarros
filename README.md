@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
  **• 🎓 Computer Science Student:** Currently in the 3rd semester of my Bachelor's at CESAR School.
 
- **• 💻 Web Development Enthusiast:** Skilled in HTML5, CSS3, JavaScript, and frameworks like Django.
+ **• 💻 Web Development Enthusiast:** Skilled in HTML5, CSS3, JavaScript, and frameworks like React.
 
  **• 🎮 Amateur Game Developer:** Currently learning the essentials of game developement in Unity Editor
 
@@ -20,11 +20,11 @@ ________________________________________________________________________________
 
 🔧 **Technologies & Tools**
 
- **• Languages:** Python, C, HTML5, CSS3, JavaScript
+ **• Languages:** Python, C, Java
 
- **• Frameworks:** Django
+ **• Frameworks:** React
 
- **• Tools:** Jira, PostgreSQL
+ **• Tools:** Jira
 
  **• Agile Methodologies:** Kanban, Lean, DSDM
 
@@ -33,30 +33,27 @@ ________________________________________________________________________________
 📚 **Current Projects**
 
 
-🌱 **Cultiva Fácil**
+🌱 **Site institucional BRASFI**
 
  **• Technologies:**
 
-   • Django Framework
-
-   • HTML5, CSS3, JavaScript
-
-   • PostgreSQL
+   **• Backend:** Java + Spring Boot
+   **• Frontend:** React + TypeScript
+   **• Database:** PostgreSQL
+   **• Build Tools:** Maven (backend) & Vite (frontend)
 
  • [Project Link](https://github.com/MatheusMV05/Projetos-2---G1)
 
 
-📖 **Which Teacher**
+🎮 **PokeBattle**
 
  **• Technologies:**
 
-   • Django Framework
+   • Raylib
 
-   • HTML5, CSS3, JavaScript
+   • C
 
-   • PostgreSQL
-
- • [Project Link](https://github.com/vinimarques7/projeto-FDS)
+ • [Project Link](https://github.com/MatheusMV05/PokeBattle)
 
 ________________________________________________________________________________________________
 
