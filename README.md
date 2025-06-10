@@ -1,79 +1,68 @@
-**Hi there, I'm Julia!** 👋
+Hi there, I'm Julia! 👋
 
-Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and bringing ideas to life through programming. Here's a little about me:
+Welcome to my GitHub profile! I'm passionate about front-end development, agile project management, and building digital experiences that actually work. Here's a little about me:
 
-________________________________________________________________________________________________
+___________________________________________________________________________________________________
 
-🚀 **About Me**
+🚀 About Me
 
- **• 🎓 Computer Science Student:** Currently in the 3rd semester of my Bachelor's at CESAR School.
+• 🎓 Computer Science Student: Currently in the 3rd semester of my Bachelor's at CESAR School.
 
- **• 💻 Web Development Enthusiast:** Skilled in HTML5, CSS3, JavaScript, and frameworks like React.
+• 💻 Front-End Focus: Skilled in HTML5, CSS3, JavaScript, and React. I love crafting responsive and user-friendly interfaces.
 
- **• 🎮 Amateur Game Developer:** Currently learning the essentials of game developement in Unity Editor
+• 📊 Agile Project Management: Proficient in Scrum, Kanban, and Lean — I enjoy organizing teams and driving projects from planning to delivery.
 
- **• 🌟 Agile Practices:** Proficient in Kanban, Lean, and DSDM methodologies.
- 
-  **• 🌎 Native English Speaker:** Fluent in American English.
+• 🎮 Creative Coder: Learning the fundamentals of game development with Unity Editor.
 
- _______________________________________________________________________________________________
+• 🌎 Native English Speaker: English is my first language.
 
-🔧 **Technologies & Tools**
+___________________________________________________________________________________________________
 
- **• Languages:** Python, C, Java
+🔧 Technologies & Tools
 
- **• Frameworks:** React
+• Languages: JavaScript, Python, C, Java  
+• Frameworks & Libraries: React 
+• Tools: Git, GitHub, Jira  
+• Agile Methodologies: Scrum, Kanban, Lean  
 
- **• Tools:** Jira
+___________________________________________________________________________________________________
 
- **• Agile Methodologies:** Kanban, Lean, DSDM
+📚 Current Projects
 
- _______________________________________________________________________________________________
+🏛️ **BRASFI Institutional Website**  
+[![Java](https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=java&logoColor=white&color=red)](https://www.oracle.com/java/) 
+[![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=blue)](https://reactjs.org/) 
+[![Agile](https://img.shields.io/badge/Methodology-Scrum--Kanban-yellow?style=flat&logo=trello)](https://trello.com)  
+• 🔍 **Role:** Front-end developer & Agile team coordinator  
+• 📈 **Outcome:** Delivered in 3 sprints with full documentation, API integration, and a responsive UI  
+• 🔗 [Project Link](https://github.com/MatheusMV05/projetos3g2)
 
-📚 **Current Projects**
+🛡️ **Insurance Management System**  
+[![Java](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&color=orange)](https://github.com/JuliaTBarros/ac20251)  
+• 🔍 **Role:** Developer responsible for business logic and data modeling  
+• 📈 **Outcome:** Built a working simulation for managing policies and clients in Java  
+• 🔗 [Project Link](https://github.com/JuliaTBarros/ac20251)
 
+🎮 **PokeBattle**  
+[![C](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&color=lightblue)](https://github.com/MatheusMV05/PokeBattle) 
+[![Raylib](https://img.shields.io/badge/Graphics-Raylib-informational?style=flat&color=green)](https://www.raylib.com/)  
+• 🧠 **Purpose:** Learning project focused on logic, structure, and 2D game design  
+• 🔗 [Project Link](https://github.com/MatheusMV05/PokeBattle)
 
-🌱 **Site institucional BRASFI**
+___________________________________________________________________________________________________
 
- **• Technologies:**
+📫 Let's Connect
 
-   • Backend: Java + Spring Boot
-   
-   • Frontend: React + TypeScript
-   
-   • Database: PostgreSQL
-   
-   • Build Tools: Maven (backend) & Vite (frontend)
+• ✉️ Email: juliatbarros05@gmail.com  
+• 📱 Phone: +55 (81) 99917-6990  
+• 💼 LinkedIn: *(www.linkedin.com/in/juliatbarros)*
 
- • [Project Link](https://github.com/MatheusMV05/Projetos-2---G1)
+___________________________________________________________________________________________________
 
+🌟 Fun Facts
 
-🎮 **PokeBattle**
+• I'm a desk warrior 💻 who thrives on balancing focused sprints with creative side projects.  
+• I love managing collaborative workflows and seeing ideas come to life — from sticky notes to shipped products.  
+• Outside tech, I teach children at my church and train at the gym to stay active and centered.
 
- **• Technologies:**
-
-   • Raylib
-
-   • C
-
- • [Project Link](https://github.com/MatheusMV05/PokeBattle)
-
-________________________________________________________________________________________________
-
-**📫 Let's Connect**
-
- • ✉️ Email: juliatbarros05@gmail.com
-
- • 📱 Phone: (81) 99917-6990
-
- _______________________________________________________________________________________________
-
-**🌟 Fun Facts**
-
- • I'm a desk warrior 💻, balancing long work hours with creative side projects.
-
- • I thrive on the challenge of building something from scratch and seeing it come to life.
-
- • When i'm not working, you can find me teaching children at my church and trainning at the gym.
-
-Feel free to explore my repositories, share feedback, or collaborate on projects. Let's build something amazing together! 🚀
+Feel free to explore my repositories, share feedback, or collaborate on projects. Let’s build something amazing together! 🚀
