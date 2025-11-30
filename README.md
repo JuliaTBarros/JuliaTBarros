@@ -1,68 +1,71 @@
-Hi there, I'm Julia! 👋
+# Hi there, I'm Julia! 👋
 
-Welcome to my GitHub profile! I'm passionate about front-end development, agile project management, and building digital experiences that actually work. Here's a little about me:
+Welcome to my GitHub! I’m a Computer Science student who works at the intersection of **technology, project management, and product thinking**. I enjoy turning ideas into well-structured, well-executed digital experiences — from planning and coordination to hands-on development.
 
-___________________________________________________________________________________________________
+---
 
-🚀 About Me
+## 🚀 About Me
 
-• 🎓 Computer Science Student: Currently in the 3rd semester of my Bachelor's at CESAR School.
+- 🎓 **Computer Science @ CESAR School** — 4º período  
+- 📊 **Agile Project Management** — Scrum, Kanban, Lean, backlog management, task tracking  
+- 🧭 **Project & Team Coordination** — cronogramas, documentação, comunicação entre UX/DEV/cliente  
+- 💻 **Front-end Development** — React, TypeScript, JavaScript, HTML/CSS  
+- 🧠 **Strategic Thinking** — pesquisa de mercado, SWOT, PESTLE, BMC, Lean Canvas  
+- 🌎 **Native English Speaker**
 
-• 💻 Front-End Focus: Skilled in HTML5, CSS3, JavaScript, and React. I love crafting responsive and user-friendly interfaces.
+I love working in collaborative environments where process, comunicação clara e entrega de valor caminham juntas.
 
-• 📊 Agile Project Management: Proficient in Scrum, Kanban, and Lean — I enjoy organizing teams and driving projects from planning to delivery.
+---
 
-• 🎮 Creative Coder: Learning the fundamentals of game development with Unity Editor.
+## 🔧 Technologies & Tools
 
-• 🌎 Native English Speaker: English is my first language.
+**Languages:** JavaScript, TypeScript, Python, C, Java, SQL  
+**Frameworks:** ReactJS, Spring Boot  
+**Tools:** Git, GitHub, Jira, Notion, Google Workspace  
+**Agile:** Scrum • Kanban • Lean • RACI • Kanban board • Sprint planning  
 
-___________________________________________________________________________________________________
+---
 
-🔧 Technologies & Tools
+## 📚 Featured Projects
 
-• Languages: JavaScript, Python, C, Java  
-• Frameworks & Libraries: React 
-• Tools: Git, GitHub, Jira  
-• Agile Methodologies: Scrum, Kanban, Lean  
+### 🏛️ **BRASFI Institutional Website**  
+[![Java](https://img.shields.io/badge/Backend-Java-red?style=flat&logo=java)](https://www.oracle.com/java/)  
+[![React](https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react)](https://reactjs.org/)  
+**Role:** Front-end developer + project coordinator  
+Built a full SPA with React/TypeScript while organizing cronogramas, atas, alinhamentos e documentação no Notion.  
+🔗 **Project:** https://github.com/MatheusMV05/projetos3g2
 
-___________________________________________________________________________________________________
+---
 
-📚 Current Projects
+### 💼 **Simulação de Startup — Projeto Acadêmico (CESAR School)**  
+[![Notion](https://img.shields.io/badge/Management-Notion-black?style=flat&logo=notion)](https://www.notion.so/)  
+[![Kanban](https://img.shields.io/badge/Kanban-Board-blue?style=flat&logo=trello)](https://trello.com)  
+**Role:** Gestora geral + equipe de estratégia  
+Criei cronograma, Matriz RACI, delegação de tarefas e organização completa no Notion/Kanban. Conduzi análises de mercado (SWOT, PESTLE), defini segmentos de clientes e modelei o negócio com BMC e Lean Canvas.  
+🔗 **Project:** https://github.com/claranevess/PhysioCapture 
 
-🏛️ **BRASFI Institutional Website**  
-[![Java](https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=java&logoColor=white&color=red)](https://www.oracle.com/java/) 
-[![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=blue)](https://reactjs.org/) 
-[![Agile](https://img.shields.io/badge/Methodology-Scrum--Kanban-yellow?style=flat&logo=trello)](https://trello.com)  
-• 🔍 **Role:** Front-end developer & Agile team coordinator  
-• 📈 **Outcome:** Delivered in 3 sprints with full documentation, API integration, and a responsive UI  
-• 🔗 [Project Link](https://github.com/MatheusMV05/projetos3g2)
+---
 
-🛡️ **Insurance Management System**  
-[![Java](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&color=orange)](https://github.com/JuliaTBarros/ac20251)  
-• 🔍 **Role:** Developer responsible for business logic and data modeling  
-• 📈 **Outcome:** Built a working simulation for managing policies and clients in Java  
-• 🔗 [Project Link](https://github.com/JuliaTBarros/ac20251)
+### 🐾 **Pet Shop Management System**  
+[![JS](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat&logo=javascript)]()  
+**Role:** Front-end developer  
+Interface responsiva com operações CRUD via Fetch API e documentação do fluxo de desenvolvimento.  
+🔗 **Project:** https://github.com/JuliaTBarros/Pet-Shop-BD
 
-🎮 **PokeBattle**  
-[![C](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&color=lightblue)](https://github.com/MatheusMV05/PokeBattle) 
-[![Raylib](https://img.shields.io/badge/Graphics-Raylib-informational?style=flat&color=green)](https://www.raylib.com/)  
-• 🧠 **Purpose:** Learning project focused on logic, structure, and 2D game design  
-• 🔗 [Project Link](https://github.com/MatheusMV05/PokeBattle)
+---
 
-___________________________________________________________________________________________________
+## 📫 Let's Connect
 
-📫 Let's Connect
+- ✉️ Email: **contato.juliatb@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/juliatbarros  
+- 📍 Recife – PE, Brazil
 
-• ✉️ Email: juliatbarros05@gmail.com  
-• 📱 Phone: +55 (81) 99917-6990  
-• 💼 LinkedIn: www.linkedin.com/in/juliatbarros
+---
 
-___________________________________________________________________________________________________
+## 🌟 Fun Facts
 
-🌟 Fun Facts
+- I love organizing workflows — from sticky notes to structured Notion dashboards.  
+- Teaching and leading small groups have strengthened my communication and people skills.  
+- I’m passionate about creating value through well-organized projects and thoughtful design.
 
-• I'm a desk warrior 💻 who thrives on balancing focused sprints with creative side projects.  
-• I love managing collaborative workflows and seeing ideas come to life — from sticky notes to shipped products.  
-• Outside tech, I teach children at my church and train at the gym to stay active and centered.
-
-Feel free to explore my repositories, share feedback, or collaborate on projects. Let’s build something amazing together! 🚀
+💬 Feel free to explore my repositories or reach out for collaboration!
