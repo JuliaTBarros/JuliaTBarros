@@ -84,27 +84,6 @@ Built a responsive interface and CRUD operations using Fetch API, including UI s
 
 ---
 
-## 📁 Repository Categories
-
-### **🔹 Project Management & Strategy**
-- Startup Simulation  
-- BRASFI (coordination tasks)
-
-### **🔹 Web Development**
-- BRASFI Website  
-- Pet Shop Management System  
-
-### **🔹 Backend / Logic Projects**
-- Java Insurance Management System  
-- C-based game mechanics projects  
-
-### **🔹 Learning & Experiments**
-- PokeBattle (C + Raylib)  
-- Python exercises  
-- Unity basics  
-
----
-
 ## 📫 Let’s Connect
 
 - ✉️ **Email:** juliatbarros05@gmail.com  
