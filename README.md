@@ -1,4 +1,4 @@
-<!-- BANNER / HEADER -->
+<!-- HEADER -->
 <h1 align="center">Hi there, I'm Julia! 👋</h1>
 <h3 align="center">CS Student • Agile Project Coordinator • Front-End Developer</h3>
 
@@ -6,16 +6,17 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student at **CESAR School** (4th semester) passionate about the intersection between **technology, project management, and product thinking**.  
-I enjoy transforming ideas into structured, well-managed, and well-executed digital solutions — from planning and coordination to hands-on development.
+I'm a Computer Science student at **CESAR School** (4th semester) working at the intersection of **technology, agile project management, and product strategy**.  
+I enjoy taking ideas from early requirements all the way to delivery — organizing tasks, structuring workflows, and building the front-end features that bring products to life.
 
 - 🎓 **Computer Science @ CESAR School**  
-- 📊 **Agile Project Management:** Scrum • Kanban • Lean • Task tracking • Documentation  
+- 📊 **Agile Project Management:** Scrum, Kanban, Lean, backlog management, documentation  
+- 🧭 **Project Coordination:** timelines, RACI matrix, task delegation, Notion organization, stakeholder communication  
 - 💻 **Front-end Development:** React, TypeScript, JavaScript, HTML/CSS  
-- 🧭 **Project Coordination:** timelines, RACI, task delegation, Notion organization, stakeholder communication  
+- 🧠 **Strategic Skills:** market research, SWOT, PESTLE, Business Model Canvas, Lean Canvas  
 - 🌎 **Native English Speaker**
 
-I thrive in collaborative environments where clarity, organization, and value delivery guide the workflow.
+I thrive in collaborative teams where clarity, structure, and continuous improvement guide the workflow.
 
 ---
 
@@ -41,11 +42,11 @@ I thrive in collaborative environments where clarity, organization, and value de
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 
 ### **Agile & Management**
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&color=blue)
+![Scrum](https://img.shields.io/badge/Scrum-326CE5?style=flat)
 ![Kanban](https://img.shields.io/badge/Kanban-316FEB?style=flat&logo=trello&logoColor=white)
 ![Lean](https://img.shields.io/badge/Lean-FFDF00?style=flat)
-![RACI](https://img.shields.io/badge/RACI-000000?style=flat&color=grey)
-![Notion Project Board](https://img.shields.io/badge/Project_Organization-Notion-black)
+![RACI](https://img.shields.io/badge/RACI-555555?style=flat)
+![Notion Board](https://img.shields.io/badge/Project_Organization-Notion-black)
 
 ---
 
@@ -55,8 +56,9 @@ I thrive in collaborative environments where clarity, organization, and value de
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![Java](https://img.shields.io/badge/Backend-Java-red)
 ![Agile](https://img.shields.io/badge/Methodology-Scrum--Kanban-yellow)
+
 **Role:** Front-end Developer & Agile Coordinator  
-SPA built with React/TypeScript + API integration, while coordinating timelines, documentation, and communication between UX/DEV/stakeholders.  
+Developed a full SPA using React/TypeScript with API integration, while coordinating timelines, documentation, sprint progress, and communication between UX, development, and stakeholders.  
 🔗 **Repository:** https://github.com/MatheusMV05/projetos3g2
 
 ---
@@ -64,36 +66,36 @@ SPA built with React/TypeScript + API integration, while coordinating timelines,
 ### 💼 **Startup Simulation — Academic Project (CESAR School)**  
 ![Notion](https://img.shields.io/badge/Management-Notion-black)
 ![Kanban](https://img.shields.io/badge/Kanban-Board-blue)
+
 **Role:** General Project Manager & Strategy Lead  
-Managed the entire project workflow (timeline, RACI, task delegation, Notion board, Kanban).  
-Conducted market research, SWOT & PESTLE analyses, defined customer segments, and created the Business Model & Value Proposition.  
+Managed the entire project workflow: timelines, RACI matrix, task delegation, Notion workspace organization, and Kanban tracking.  
+Conducted market research, SWOT and PESTLE analyses, defined customer segments, and built the Business Model, Lean Canvas, and Value Proposition.  
 🔗 **Project Site:** https://sites.google.com/...
 
 ---
 
 ### 🐾 **Pet Shop Management System**  
-![JavaScript](https://img.shields.io/badge/JS-Project-yellow)
-Built a responsive interface and CRUD operations using Fetch API, supporting documentation and backlog alignment.  
+![JavaScript](https://img.shields.io/badge/JavaScript-Project-yellow)
+
+**Role:** Front-end Developer  
+Built a responsive interface and CRUD operations using Fetch API, including UI structure and documentation of development progress.  
 🔗 **Repository:** https://github.com/JuliaTBarros/Pet-Shop-BD
 
 ---
 
 ## 📁 Repository Categories
 
-To help recruiters and collaborators quickly navigate:
-
 ### **🔹 Project Management & Strategy**
 - Startup Simulation  
-- BRASFI (coordination side)
+- BRASFI (coordination tasks)
 
-### **🔹 Web Development (Front-end / Full-stack)**
+### **🔹 Web Development**
 - BRASFI Website  
 - Pet Shop Management System  
 
-### **🔹 Backend & Logic Projects**
-- Insurance Management System  
-- Java academic exercises  
-- C logic-based games  
+### **🔹 Backend / Logic Projects**
+- Java Insurance Management System  
+- C-based game mechanics projects  
 
 ### **🔹 Learning & Experiments**
 - PokeBattle (C + Raylib)  
@@ -106,15 +108,15 @@ To help recruiters and collaborators quickly navigate:
 
 - ✉️ **Email:** juliatbarros05@gmail.com  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/juliatbarros  
-- 🌎 Recife, Brazil  
+- 📍 Recife, Brazil  
 
 ---
 
 ## 🌟 Fun Facts
 
-- I love transforming messy task boards into clean, organized Notion dashboards.  
-- Teaching and leading bible study groups has shaped my communication and leadership style.  
-- I enjoy balancing technical problem-solving with process optimization and team support.
+- I love turning chaotic task lists into clean, structured Notion dashboards.  
+- Teaching and leadership roles helped shape my communication and problem-solving style.  
+- I enjoy blending technical development with process optimization and team support.
 
 ---
 
