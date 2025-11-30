@@ -86,7 +86,7 @@ Built a responsive interface and CRUD operations using Fetch API, including UI s
 
 ## 📫 Let’s Connect
 
-- ✉️ **Email:** juliatbarros05@gmail.com  
+- ✉️ **Email:** contato.juliatb@gmail.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/juliatbarros  
 - 📍 Recife, Brazil  
 
