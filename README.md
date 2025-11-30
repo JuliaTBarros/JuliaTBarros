@@ -70,7 +70,8 @@ Developed a full SPA using React/TypeScript with API integration, while coordina
 **Role:** General Project Manager & Strategy Lead  
 Managed the entire project workflow: timelines, RACI matrix, task delegation, Notion workspace organization, and Kanban tracking.  
 Conducted market research, SWOT and PESTLE analyses, defined customer segments, and built the Business Model, Lean Canvas, and Value Proposition.  
-🔗 **Project Site:** https://sites.google.com/...
+🔗 **Project Site:** https://sites.google.com/cesar.school/projetos-4-grupo-15/home
+🔗 **Repository:** https://github.com/claranevess/PhysioCapture
 
 ---
 
